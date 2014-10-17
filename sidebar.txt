@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pei:home|Door43 (pei)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pei|d43-pei repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pei/archive/master.zip|d43-pei.zip]]
+
+**Recent Changes**
+{{changes>ns = pei}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pei|Ethnologue data]]
+
